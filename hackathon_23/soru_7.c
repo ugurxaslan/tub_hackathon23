@@ -3,6 +3,9 @@
 #include <math.h>
 
 int main(){
+
+
+
     long long kirk_bit_max_value=1;
     for(int i=0;i<40;i++){
         kirk_bit_max_value*=2;
